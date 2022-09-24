@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe6f11e9-5a8e-400b-b50f-94f2c9827760" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bert/mindspore_hub_conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/mindspore_hub_conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/pretrain_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/pretrain_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/run_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/run_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/run_ner.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/run_ner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/run_pretrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/run_pretrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/run_squad.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/run_squad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/ascend_distributed_launcher/get_distribute_pretrain_cmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/ascend_distributed_launcher/get_distribute_pretrain_cmd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/run_classifier.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/run_classifier.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/run_distributed_pretrain_ascend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/run_distributed_pretrain_ascend.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/run_distributed_pretrain_for_gpu.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/run_distributed_pretrain_for_gpu.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/run_ner.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/run_ner.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/run_squad.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/run_squad.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/run_standalone_pretrain_ascend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/run_standalone_pretrain_ascend.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/scripts/run_standalone_pretrain_for_gpu.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bert/scripts/run_standalone_pretrain_for_gpu.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/CRF.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/CRF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/assessment_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/assessment_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/bert_for_finetune.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/bert_for_finetune.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/bert_for_pre_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/bert_for_pre_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/bert_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/bert_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/clue_classification_dataset_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/clue_classification_dataset_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/cluener_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/cluener_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/finetune_eval_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/finetune_eval_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/finetune_eval_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/finetune_eval_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/sample_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/sample_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/tokenization.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/tokenization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/bert/src/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/export_mindir.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/export_mindir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/src/args.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/src/args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/src/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/src/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/src/lr_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/src/lr_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/src/mobilenetV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/src/mobilenetV2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/src/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/src/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/src/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilenetv2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobilenetv2/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/src/CrossEntropySmooth.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/src/CrossEntropySmooth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/src/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/src/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/src/lr_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/src/lr_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/src/resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/src/resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/src/callbacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/src/callbacks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/src/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/src/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/src/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/src/metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/src/preprocess_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/src/preprocess_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/src/wide_and_deep.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/src/wide_and_deep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wide_deep_gpu/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/wide_deep_gpu/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/darknet.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/darknet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/distributed_sampler.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/distributed_sampler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/initializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/initializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/lr_scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/lr_scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/src/yolo_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/src/yolo_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov3/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/cspdarknet53.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/cspdarknet53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/distributed_sampler.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/distributed_sampler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/initializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/initializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/lr_scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/lr_scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/src/yolo_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/src/yolo_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov4/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/yolov4/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FDEmEJ31jAseUC9mlTmn8v2lBn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/huxiuyu/Desktop/xiuyu0000/tutorials"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe6f11e9-5a8e-400b-b50f-94f2c9827760" name="Changes" comment="" />
+      <created>1664018410726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664018410726</updated>
+      <workItem from="1664018411950" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
